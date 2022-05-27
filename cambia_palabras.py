@@ -1,4 +1,4 @@
-original = "tiza"
+original = "tizas"
 nueva = "yesos"
 
 fichero = open("fichero.txt", "r") #abro
