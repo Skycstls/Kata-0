@@ -1,2 +1,2 @@
-# Kata-0
+# Cambia palabras
 Primera Kata en Keepcoding
